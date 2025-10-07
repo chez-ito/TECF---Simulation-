@@ -4,14 +4,16 @@ Computational study of emergent spacetime-like geometry in quantum error-correct
 
 ## 📄 Paper
 
-**Emergent Spacetime Geometry in Topological Quantum Error-Correcting Codes**  
+**Analogue Geodesic Deflection and Curvature-Like Effects in the Static Toric Code Ground State**  
 **Author:** Chez Prefect with assistance from Claude (Anthropic) 
 arXiv:[will add when available]  
 Status: Submitted Oct 2025
 
 ## 🎯 Summary
 
-This project simulates geodesic paths in emergent metrics derived from mutual information (MI) patterns in toric code lattices. The simulation demonstrates that information-optimal paths exhibit deflection when traversing spatially-varying entanglement landscapes.
+This project explores the Analogue Gravity Hypothesis by simulating information-optimal paths (analogue geodesics) in an emergent distance function derived from mutual information (MI) patterns in the static Toric Code ground state.
+
+The simulation demonstrates that information flow exhibits deflection analogous to gravity when traversing spatially-varying entanglement landscapes. Topological defects create localized perturbations in this "entanglement metric.
 
 ### Key Findings
 
