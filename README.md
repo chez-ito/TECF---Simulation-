@@ -13,7 +13,7 @@ Status: Submitted Oct 2025
 
 This project explores the Analogue Gravity Hypothesis by simulating information-optimal paths (analogue geodesics) in an emergent distance function derived from mutual information (MI) patterns in the static Toric Code ground state.
 
-The simulation demonstrates that information flow exhibits deflection analogous to gravity when traversing spatially-varying entanglement landscapes. Topological defects create localized perturbations in this "entanglement metric.
+The simulation demonstrates that information flow exhibits deflection analogous to gravity when traversing spatially-varying entanglement landscapes. Topological defects create localized perturbations in this "entanglement metric."
 
 ### Key Findings
 
